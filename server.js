@@ -40,7 +40,7 @@ const connectDB = async () => {
 };
 
 app.get("/api/V1/skyshowNG", (req, res) => {
-  res.status(200).send(" Welcome To Skyshow Mobile Application ");
+  res.status(200).send(" Welcome To Skyshow Mobile Application");
 });
 
 // GLOBAL MIDLEWARE
