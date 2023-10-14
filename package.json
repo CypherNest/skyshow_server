@@ -4,7 +4,7 @@
   "description": "skyshow cryptoApplication",
   "main": "server.js",
   "scripts": {
-    "test": "start"
+    "start": " node start"
   },
   "repository": {
     "type": "git",
